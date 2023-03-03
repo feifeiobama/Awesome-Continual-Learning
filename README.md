@@ -190,9 +190,45 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 ### Object detection
 
+* (ICCV 17) Incremental Learning of Object Detectors without Catastrophic Forgetting
+* (WACV 20) Class-incremental Learning via Deep Model Consolidation
+* (CVPR 20) Incremental Few-Shot Object Detection
+* (CVPR 21) Towards Open World Object Detection
+* (ICCV 21) Wanderlust: Online Continual Object Detection in the Real World
+* (NeurIPS 21) Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection
+* (TPAMI 21) Incremental Object Detection via Meta-Learning
+* (CVPR 22) Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation
+* (CVPR 22) Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
+* (CVPR 23) Continual Detection Transformer for Incremental Object Detection
+
 
 
 ### Semantic segmentation
+
+* (ICCVW 19) Incremental Learning Techniques for Semantic Segmentation
+* (CVPR 20) Modeling the Background for Incremental Learning in Semantic Segmentation
+* (AAAI 21) A Continual Learning Framework for Uncertainty-Aware Interactive Image Segmentation
+* (AAAI 21) Unsupervised Model Adaptation for Continual Semantic Segmentation
+* (CVPR 21) Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations
+* (CVPR 21) PLOP: Learning without Forgetting for Continual Semantic Segmentation
+* (CVPR 21) Incremental Few-Shot Instance Segmentation
+* (ICCV 21) RECALL: Replay-based Continual Learning in Semantic Segmentation
+* (NeurIPS 21) SSUL: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning
+* (WACV 22) Multi-Domain Incremental Learning for Semantic Segmentation
+* (CVPR 22) Representation Compensation Networks for Continual Semantic Segmentation
+* (CVPR 22) Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation
+* (CVPR 22) Incremental Learning in Semantic Segmentation from Image Labels
+* (CVPR 22) Learning Multiple Dense Prediction Tasks from Partially Annotated Data
+* (ECCV 22) RBC: Rectifying the Biased Context in Continual Semantic Segmentation
+* (ECCV 22) Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment
+* (NeurIPS 22) Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation
+* (NeurIPS 22) ALIFE: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation
+* (NeurIPS 22) Mining Unseen Classes via Regional Objectness: A Simple Baseline for Incremental Segmentation
+* (TPAMI 22) Modeling the Background for Incremental and Weakly-Supervised Semantic Segmentation
+* (TPAMI 22) Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation
+* (TNNLS 22) Self-Training for Class-Incremental Semantic Segmentation
+* (CVPR 23) Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation
+* (CVPR 23) CoMFormer: Continual Learning in Semantic and Panoptic Segmentation
 
 
 
@@ -232,7 +268,44 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 ### Reinforcement learning
 
+* (ICLR 18) Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments
+* (ICLR 18) Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control
+* (ICML 18) State Abstractions for Lifelong Reinforcement Learning
+* (ICML 18) Policy and Value Transfer in Lifelong Reinforcement Learning
+* (ICML 18) Continual Reinforcement Learning with Complex Synapses
+* (NeurIPS 18) Lifelong Inverse Reinforcement Learning
+* (ICLR 19) Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
+* (ICLR 19) Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference
+* (ICML 19) Policy Consolidation for Continual Reinforcement Learning
+* (NeurIPS 19) Experience Replay for Continual Learning
+* (NeurIPS 20) Continual Learning of Control Primitives: Skill Discovery via Reset-Games
+* (NeurIPS 20) Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes
+* (NeurIPS 20) Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting
+* (ICLR 21) CoMPS: Continual Meta Policy Search
+* (ICLR 21) Reset-Free Lifelong Learning with Skill-Space Planning
+* (Neurocomputing 21) Pseudo-Rehearsal: Achieving Deep Reinforcement Learning without Catastrophic Forgetting
+* (AAAI 22) Same State, Different Task: Continual Reinforcement Learning without Interference
+* (ICLR 22) Modular Lifelong Reinforcement Learning via Neural Composition
+* (ICLR 22) Generalisation in Lifelong Reinforcement Learning through Logical Composition
+* (NeurIPS 22) Model-based Lifelong Reinforcement Learning with Bayesian Exploration
+* (NeurIPS 22) Off-Policy Evaluation for Action-Dependent Non-stationary Environments
+* (NeurIPS 22) Continual Learning In Environments With Polynomial Mixing Times
+* (NeurIPS 22) Disentangling Transfer in Continual Reinforcement Learning
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
+
+#### Non-stationary MDP
+
+* (NeurIPS 19) A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning
+* (NeurIPS 19) Non-Stationary Markov Decision Processes a Worst-Case Approach using Model-Based Reinforcement Learning
+* (AAAI 20) Lifelong Learning with a Changing Action Set
+* (ICML 20) Optimizing for the Future in Non-Stationary MDPs
+* (ICML 20) Reinforcement Learning for Non-Stationary Markov Decision Processes: The Blessing of (More) Optimism
+* (NeurIPS 20) Towards Safe Policy Improvement for Non-Stationary MDPs
+* (AAAI 21) Lipschitz Lifelong Reinforcement Learning
+* (ICML 21) Near-Optimal Model-Free Reinforcement Learning in Non-Stationary Episodic MDPs
+* (ICML 21) Deep Reinforcement Learning amidst Continual Structured Non-Stationarity
+* (ICLR 22) Reinforcement Learning in Presence of Discrete Markovian Context Evolution
+* (NeurIPS 22) Factored Adaptation for Non-Stationary Reinforcement Learning
 
 
 
@@ -249,6 +322,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (CVPRW 21) Selective Replay Enhances Learning in Online Continual Analogical Reasoning
 * (ICCV 21) Class-Incremental Learning for Action Recognition in Videos
 * (ICCV 21) Else-Net: Elastic Semantic Network for Continual Action Recognition from Skeleton Data
+* (ICCV 21) Detection and Continual Learning of Novel Face Presentation Attacks
 * (ICCV 21) Continual Learning for Image-Based Camera Localization
 * (ICCV 21) Continual Neural Mapping: Learning An Implicit Scene Representation from Sequential Observations
 * (BMVC 21) Incremental Learning for Animal Pose Estimation using RBF k-DPP
