@@ -17,7 +17,7 @@ This repository contains a curated list of continual learning papers (mostly unt
   * [Object detection](##Object-detection)
   * [Semantic segmentation](##Semantic-segmentation)
   * [Image generation](##Image-generation)
-  * [Person reID](##Person-reID)
+  * [Person re-identification](##Person-re-identification)
   * [Vision-language learning](##Vision-language-learning)
   * [Reinforcement learning](##Reinforcement-learning)
   * [Others](##Others)
@@ -242,7 +242,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 
 
-### Person reID
+### Person re-identification
 
 * (AVSS 19) Continuous Learning without Forgetting for Person Re-Identification
 * (AAAI 21) Generalising without Forgetting for Lifelong Person Re-Identification
