@@ -1,5 +1,5 @@
 # Awesome Continual Learning
-This repository contains a curated list of continual learning papers (mostly until 2022). Please feel free to pull request.
+This repository contains a curated list of continual learning papers (mostly until 2022).
 
 * [Survey](#Survey)
 * [Replay-based](##Replay-based)
