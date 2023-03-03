@@ -1,5 +1,5 @@
 # Awesome Continual Learning
-This repository contains continual learning papers orgnized by topics. Feel free to pull request.
+This repository contains continual learning papers orgnized by topics. Please feel free to pull request.
 
 
 
