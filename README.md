@@ -2,18 +2,17 @@
 This repository contains a curated list of continual learning papers (mostly until 2022). Please feel free to pull request.
 
 * [Survey](#Survey)
-* [Method](#Method)
-  * [Replay-based](##Replay-based)
-    * [Memory replay](###Memory-replay)
-    * [Generative replay](###Generative-replay)
-  * [Regularization-based](##Regularization-based)
-    * [Bayesian-based](###Bayesian-based)
-    * [Subspace-based](###Subspace-based)
-    * [Distillation-based](###Distillation-based)
-  * [Architecture-based](##Architecture-based)
-    * [Expansion](###Expansion)
-    * [Mask](###Mask)
-    * [Decompose](###Decompose)
+* [Replay-based](##Replay-based)
+  * [Memory replay](###Memory-replay)
+  * [Generative replay](###Generative-replay)
+* [Regularization-based](##Regularization-based)
+  * [Bayesian-based](###Bayesian-based)
+  * [Subspace-based](###Subspace-based)
+  * [Distillation-based](###Distillation-based)
+* [Architecture-based](##Architecture-based)
+  * [Expansion](###Expansion)
+  * [Mask](###Mask)
+  * [Decompose](###Decompose)
 * [Application](#Application)
   * [Object detection](##Object-detection)
   * [Semantic segmentation](##Semantic-segmentation)
@@ -42,11 +41,9 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 
 
-## Method
+## Replay-based
 
-### Replay-based
-
-#### Memory replay
+### Memory replay
 
 * (CVPR 17) iCaRL: Incremental Classifier and Representation Learning
 * (NeurIPS 17) Gradient Episodic Memory for Continual Learning
@@ -85,7 +82,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (CVPR 23) Class-Incremental Exemplar Compression for Class-Incremental Learning
 * (CVPR 23) Regularizing Second-Order Influences for Continual Learning
 
-#### Generative replay
+### Generative replay
 
 * (NeurIPS 17) Continual Learning with Deep Generative Replay
 * (NeurIPS 18) Memory Replay GANs: Learning to Generate New Categories without Forgetting
@@ -98,13 +95,13 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 
 
-### Regularization-based
+## Regularization-based
 
 * (ICML 17) Continual Learning through Synaptic Intelligence
 * (ECCV 18) Memory Aware Synapses: Learning What (Not) to Forget
 * (NeurIPS 20) Understanding the Role of Training Regimes in Continual Learning
 
-#### Bayesian-based
+### Bayesian-based
 
 * (PNAS 17) Overcoming Catastrophic Forgetting in Neural Networks
 * (NeurIPS 17) Overcoming Catastrophic Forgetting by Incremental Moment Matching
@@ -117,7 +114,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (NeurIPS 21) AFEC: Active Forgetting of Negative Transfer in Continual Learning
 * (AISTATS 22) Provable Continual Learning via Sketched Jacobian Approximations
 
-#### Subspace-based
+### Subspace-based
 
 * (Nature Machine Intelligence 19) Continual Learning of Context-Dependent Processing in Neural Networks
 * (AISTATS 20) Orthogonal Gradient Descent for Continual Learning
@@ -133,7 +130,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (AAAI 23) Continual Learning with Scaled Gradient Projection
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
 
-#### Distillation-based
+### Distillation-based
 
 * (TPAMI 17) Learning without Forgetting
 * (CVPR 19) Learning without Memorizing
@@ -143,7 +140,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 
 
-### Architecture-based
+## Architecture-based
 
 * (ICLR 20) Continual Learning with Hypernetworks
 * (NeurIPS 21) DualNet: Continual Learning, Fast and Slow
@@ -151,7 +148,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 22) Model Zoo: A Growing Brain That Learns Continually
 * (ECCV 22) CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One
 
-#### Expansion
+### Expansion
 
 * (CVPR 17) Expert Gate: Lifelong Learning with a Network of Experts
 * (ICLR 18) Lifelong Learning with Dynamically Expandable Networks
@@ -167,7 +164,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 23) Progressive Prompts: Continual Learning for Language Models
 * (ICLR 23) Continual Transformers: Redundancy-Free Attention for Online Inference 
 
-#### Mask
+### Mask
 
 * (arXiv 16) Progressive Neural Networks
 * (ICML 17) AdaNet: Adaptive Structural Learning of Artificial Neural Networks
@@ -179,7 +176,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (CVPR 22) Meta-Attention for ViT-backed Continual Learning
 * (ICML 22) Forget-free Continual Learning with Winning Subnetworks
 
-#### Decompose
+### Decompose
 
 * (ICLR 20) Scalable and Order-robust Continual Learning with Additive Parameter Decomposition
 * (ICLR 20) BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning
