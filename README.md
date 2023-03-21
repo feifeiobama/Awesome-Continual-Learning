@@ -79,6 +79,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (NeurIPS 22) Repeated Augmented Rehearsal: A Simple but Strong Baseline for Online Continual Learning
 * (TPAMI 22) Class-Incremental Continual Learning into the eXtended DER-verse
 * (ICLR 23) Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning
+* (CVPR 23) Computationally Budgeted Continual Learning: What Does Matter?
 * (CVPR 23) Class-Incremental Exemplar Compression for Class-Incremental Learning
 * (CVPR 23) Regularizing Second-Order Influences for Continual Learning
 
@@ -100,6 +101,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICML 17) Continual Learning through Synaptic Intelligence
 * (ECCV 18) Memory Aware Synapses: Learning What (Not) to Forget
 * (NeurIPS 20) Understanding the Role of Training Regimes in Continual Learning
+* (CVPR 23) Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning
 
 ### Bayesian-based
 
