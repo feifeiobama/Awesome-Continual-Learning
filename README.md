@@ -280,6 +280,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 19) Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference
 * (ICML 19) Policy Consolidation for Continual Reinforcement Learning
 * (NeurIPS 19) Experience Replay for Continual Learning
+* (NeurIPS 20) Deep Reinforcement and InfoMax Learning
 * (NeurIPS 20) Continual Learning of Control Primitives: Skill Discovery via Reset-Games
 * (NeurIPS 20) Task-Agnostic Online Reinforcement Learning with an Infinite Mixture of Gaussian Processes
 * (NeurIPS 20) Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting
@@ -316,6 +317,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (SIGGRAPH 19) Unsupervised Incremental Learning for Hand Shape and Pose Estimation
 * (AAAI 20) Generative Continual Concept Learning
 * (CVPR 20) Online Depth Learning against Forgetting in Monocular Videos
+* (IROS 20) Latent Replay for Real-Time Continual Learning
 * (CVPRW 20) Continual Learning of Object Instances
 * (ICMLW 20) Continual Learning in Human Activity Recognition: an Empirical Analysis of Regularization
 * (arXiv 20) Learning Causal Models Online
