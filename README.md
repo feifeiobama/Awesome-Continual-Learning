@@ -318,6 +318,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (AAAI 20) Generative Continual Concept Learning
 * (CVPR 20) Online Depth Learning against Forgetting in Monocular Videos
 * (IROS 20) Latent Replay for Real-Time Continual Learning
+* (CVPRW 20) Continual Learning for Anomaly Detection in Surveillance Videos
 * (CVPRW 20) Continual Learning of Object Instances
 * (ICMLW 20) Continual Learning in Human Activity Recognition: an Empirical Analysis of Regularization
 * (arXiv 20) Learning Causal Models Online
@@ -336,6 +337,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ECCV 22) Novel Class Discovery without Forgetting
 * (ECCV 22) incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection
 * (ACL 22) Continual Prompt Tuning for Dialog State Tracking
+* (WWW 23) Dynamically Expandable Graph Convolution for Streaming Recommendation
 * (Findings of ACL 22) Consistent Representation Learning for Continual Relation Extraction
 * (COLING 22) Continuous Detection, Rapidly React: Unseen Rumors Detection based on Continual Prompt-Tuning
 * (RA-L 22) Improving Pedestrian Prediction Models with Self-Supervised Continual Learning
