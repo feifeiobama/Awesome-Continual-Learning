@@ -156,6 +156,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 18) Lifelong Learning with Dynamically Expandable Networks
 * (ICML 19) Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting
 * (ICLR 20) A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning
+* (ECCV 20) Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks
 * (CVPR 21) DER: Dynamically Expandable Representation for Class Incremental Learning
 * (CVPR 21) Adaptive Aggregation Networks for Class-Incremental Learning
 * (NeurIPS 21) BNS: Building Network Structures Dynamically for Continual Learning
