@@ -340,4 +340,5 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (Findings of ACL 22) Consistent Representation Learning for Continual Relation Extraction
 * (COLING 22) Continuous Detection, Rapidly React: Unseen Rumors Detection based on Continual Prompt-Tuning
 * (RA-L 22) Improving Pedestrian Prediction Models with Self-Supervised Continual Learning
+* (ICLR 23) Towards Open Temporal Graph Neural Networks
 * (WWW 23) Dynamically Expandable Graph Convolution for Streaming Recommendation
