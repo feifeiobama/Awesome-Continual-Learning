@@ -173,11 +173,13 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 * (CVPR 18) PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning
 * (ICML 18) Overcoming Catastrophic Forgetting with Hard Attention to the Task
+* (NeurIPSW 19) Continual Learning via Neural Pruning
 * (NeurIPS 20) Supermasks in Superposition
 * (ICLR 21) Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning
 * (CVPR 21) Continual Learning via Bit-Level Information Preserving
 * (CVPR 22) Meta-Attention for ViT-backed Continual Learning
 * (ICML 22) Forget-free Continual Learning with Winning Subnetworks
+* (ICML 22) NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks
 
 ### Decompose
 
@@ -185,6 +187,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 20) BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning
 * (CVPR 21) Efficient Feature Transformations for Discriminative and Generative Continual Learning
 * (NeurIPS 21) Mitigating Forgetting in Online Continual Learning with Neuron Calibration
+* (NeurIPS 21) Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning
 * (ICLR 22) TRGP: Trust Region Gradient Projection for Continual Learning
 
 
