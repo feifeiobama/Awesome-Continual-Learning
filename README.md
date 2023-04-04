@@ -152,7 +152,9 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 ### Expansion
 
+* (arXiv 16) Progressive Neural Networks
 * (CVPR 17) Expert Gate: Lifelong Learning with a Network of Experts
+* (ICML 17) AdaNet: Adaptive Structural Learning of Artificial Neural Networks
 * (ICLR 18) Lifelong Learning with Dynamically Expandable Networks
 * (ICML 19) Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting
 * (ICLR 20) A Neural Dirichlet Process Mixture Model for Task-Free Continual Learning
@@ -169,8 +171,6 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 ### Mask
 
-* (arXiv 16) Progressive Neural Networks
-* (ICML 17) AdaNet: Adaptive Structural Learning of Artificial Neural Networks
 * (CVPR 18) PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning
 * (ICML 18) Overcoming Catastrophic Forgetting with Hard Attention to the Task
 * (NeurIPS 20) Supermasks in Superposition
