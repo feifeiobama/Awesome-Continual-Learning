@@ -295,7 +295,6 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 22) Modular Lifelong Reinforcement Learning via Neural Composition
 * (ICLR 22) Generalisation in Lifelong Reinforcement Learning through Logical Composition
 * (NeurIPS 22) Model-based Lifelong Reinforcement Learning with Bayesian Exploration
-* (NeurIPS 22) Off-Policy Evaluation for Action-Dependent Non-stationary Environments
 * (NeurIPS 22) Continual Learning In Environments With Polynomial Mixing Times
 * (NeurIPS 22) Disentangling Transfer in Continual Reinforcement Learning
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
@@ -306,12 +305,12 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (NeurIPS 19) Non-Stationary Markov Decision Processes a Worst-Case Approach using Model-Based Reinforcement Learning
 * (AAAI 20) Lifelong Learning with a Changing Action Set
 * (ICML 20) Optimizing for the Future in Non-Stationary MDPs
-* (ICML 20) Reinforcement Learning for Non-Stationary Markov Decision Processes: The Blessing of (More) Optimism
+* (NeurIPS 20) Dynamic Regret of Policy Optimization in Non-stationary Environments
 * (NeurIPS 20) Towards Safe Policy Improvement for Non-Stationary MDPs
 * (AAAI 21) Lipschitz Lifelong Reinforcement Learning
-* (ICML 21) Near-Optimal Model-Free Reinforcement Learning in Non-Stationary Episodic MDPs
 * (ICML 21) Deep Reinforcement Learning amidst Continual Structured Non-Stationarity
 * (ICLR 22) Reinforcement Learning in Presence of Discrete Markovian Context Evolution
+* (NeurIPS 22) Off-Policy Evaluation for Action-Dependent Non-stationary Environments
 * (NeurIPS 22) Factored Adaptation for Non-Stationary Reinforcement Learning
 
 
