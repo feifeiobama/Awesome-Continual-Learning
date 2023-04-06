@@ -274,6 +274,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 
 ### Reinforcement learning
 
+* (AAAI 18) Selective Experience Replay for Lifelong Learning
 * (ICLR 18) Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments
 * (ICLR 18) Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control
 * (ICML 18) State Abstractions for Lifelong Reinforcement Learning
