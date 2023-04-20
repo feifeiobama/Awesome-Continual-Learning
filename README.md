@@ -1,5 +1,5 @@
 # Awesome Continual Learning
-This repository contains a curated list of continual learning papers (mostly until 2022).
+This repository contains a curated list of continual learning papers and [BibTeX entries](./CL.bib) (mostly until 2022).
 
 * [Survey](#Survey)
 * [Replay-based](#Replay-based)
