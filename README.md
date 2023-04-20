@@ -81,6 +81,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ICLR 23) Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning
 * (CVPR 23) Computationally Budgeted Continual Learning: What Does Matter?
 * (CVPR 23) Class-Incremental Exemplar Compression for Class-Incremental Learning
+* (CVPR 23) PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning
 * (CVPR 23) Regularizing Second-Order Influences for Continual Learning
 
 ### Generative replay
@@ -167,7 +168,9 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ECCV 22) DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning
 * (NeurIPS 22) S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning
 * (ICLR 23) Progressive Prompts: Continual Learning for Language Models
-* (ICLR 23) Continual Transformers: Redundancy-Free Attention for Online Inference 
+* (ICLR 23) Continual Transformers: Redundancy-Free Attention for Online Inference
+* (CVPR 23) Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning
+* (CVPR 23) Dense Network Expansion for Class Incremental Learning
 
 ### Mask
 
@@ -235,6 +238,9 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (TNNLS 22) Self-Training for Class-Incremental Semantic Segmentation
 * (CVPR 23) Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation
 * (CVPR 23) CoMFormer: Continual Learning in Semantic and Panoptic Segmentation
+* (CVPR 23) Continual Semantic Segmentation with Automatic Memory Sample Selection
+* (CVPR 23) Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions
+* (CVPR 23) Unsupervised Continual Semantic Adaptation through Neural Rendering
 
 
 
@@ -269,6 +275,7 @@ This repository contains a curated list of continual learning papers (mostly unt
 * (ECCV 22) Generative Negative Text Replay for Continual Vision-Language Pretraining
 * (NeurIPS 22) BMU-MoCo: Bidirectional Momentum Update for Continual Video-Language Modeling
 * (AAAI 23) Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task
+* (CVPR 23) ConStruct-VL: Data-Free Continual Structured VL Concepts Learning
 
 
 
