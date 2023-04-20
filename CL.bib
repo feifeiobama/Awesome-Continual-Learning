@@ -1,6 +1,7 @@
 % Choose from the following two abbreviation groups
-% CV & ML & NLP
+% CV & ML
 @String(TPAMI = {IEEE Transactions on Pattern Analysis and Machine Intelligence})
+@String(IJCV  = {International Journal of Computer Vision})
 @String(CVPR  = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition})
 @String(ICCV  = {Proceedings of the IEEE/CVF International Conference on Computer Vision})
 @String(ECCV  = {Proceedings of the European Conference on Computer Vision})
@@ -10,8 +11,6 @@
 @String(ICCVW = {Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops})
 @String(ICMLW = {International Conference on Machine Learning Workshops})
 @String(NIPSW = {Advances in Neural Information Processing Systems Workshops})
-@String(ACL22 = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics})
-@String(EMNLP21 = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing})
 @String(AAAI  = {Proceedings of the AAAI Conference on Artificial Intelligence})
 @String(AISTATS = {International Conference on Artificial Intelligence and Statistics})
 @String(ICANN = {International Conference on Artificial Neural Networks})
@@ -23,8 +22,9 @@
 @String(PIEEE = {Proceedings of the IEEE})
 @String(TOMS  = {ACM Transactions on Mathematical Software})
 
-% CV & ML & NLP
+% CV & ML
 @String(TPAMI = {TPAMI})
+@String(IJCV  = {IJCV})
 @String(CVPR  = {CVPR})
 @String(ICCV  = {ICCV})
 @String(ECCV  = {ECCV})
@@ -34,8 +34,6 @@
 @String(ICCVW = {ICCV Workshops})
 @String(ICMLW = {ICML Workshops})
 @String(NIPSW = {NeurIPS Workshops})
-@String(ACL22 = {ACL})
-@String(EMNLP21 = {EMNLP})
 @String(AAAI  = {AAAI})
 @String(AISTATS = {AISTATS})
 @String(ICANN = {ICANN})
@@ -972,22 +970,6 @@
   year={2019}
 }
 
-@inproceedings{madotto2021continual,
-  title={Continual Learning in Task-Oriented Dialogue Systems},
-  author={Madotto, Andrea and Lin, Zhaojiang and Zhou, Zhenpeng and Moon, Seungwhan and Crook, Paul A and Liu, Bing and Yu, Zhou and Cho, Eunjoon and Fung, Pascale and Wang, Zhiguang},
-  booktitle=EMNLP21,
-  pages={7452--7467},
-  year={2021}
-}
-
-@inproceedings{zhang2022continual,
-  title={Continual Sequence Generation with Adaptive Compositional Modules},
-  author={Zhang, Yanzhe and Wang, Xuezhi and Yang, Diyi},
-  booktitle=ACL22,
-  pages={3653--3667},
-  year={2022}
-}
-
 @article{mcclelland1995there,
   title={Why There Are Complementary Learning Systems in the Hippocampus and Neocortex: Insights from the Successes and Failures of Connectionist Models of Learning and Memory},
   author={McClelland, James L and McNaughton, Bruce L and O'Reilly, Randall C},
@@ -1172,6 +1154,16 @@
   author={Pouransari, Hadi and Ghili, Saman},
   journal={Technical report, Stanford University},
   year={2014}
+}
+
+@article{russakovsky2015imagenet,
+  title={{ImageNet} Large Scale Visual Recognition Challenge},
+  author={Russakovsky, Olga and Deng, Jia and Su, Hao and Krause, Jonathan and Satheesh, Sanjeev and Ma, Sean and Huang, Zhiheng and Karpathy, Andrej and Khosla, Aditya and Bernstein, Michael and Berg, Alexander C and Li, Fei-Fei},
+  journal=IJCV,
+  volume={115},
+  number={3},
+  pages={211--252},
+  year={2015}
 }
 
 @inproceedings{vinyals2016matching,
