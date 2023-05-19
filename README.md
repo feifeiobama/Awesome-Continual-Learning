@@ -82,6 +82,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Computationally Budgeted Continual Learning: What Does Matter?
 * (CVPR 23) Class-Incremental Exemplar Compression for Class-Incremental Learning
 * (CVPR 23) PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning
+* (CVPR 23) Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning
 * (CVPR 23) Regularizing Second-Order Influences for Continual Learning
 
 ### Generative replay
@@ -133,6 +134,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Towards Better Plasticity-Stability Trade-off in Incremental Learning: A Simple Linear Connector
 * (AAAI 23) Continual Learning with Scaled Gradient Projection
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
+* (CVPR 23) Adaptive Plasticity Improvement for Continual Learning
+* (CVPR 23) Decoupling Learning and Remembering: a Bilevel Memory Framework with Knowledge Projection for Task-Incremental Learning
 
 ### Distillation-based
 
@@ -152,6 +155,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 22) Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System
 * (ICLR 22) Model Zoo: A Growing Brain That Learns Continually
 * (ECCV 22) CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One
+* (CVPR 23) Bilateral Memory Consolidation for Continual Learning
 
 ### Expansion
 
@@ -173,6 +177,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 23) Continual Transformers: Redundancy-Free Attention for Online Inference
 * (CVPR 23) Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning
 * (CVPR 23) Dense Network Expansion for Class Incremental Learning
+* (CVPR 23) DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning
+* (CVPR 23) CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning
 
 ### Mask
 
@@ -243,6 +249,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Continual Semantic Segmentation with Automatic Memory Sample Selection
 * (CVPR 23) Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions
 * (CVPR 23) Unsupervised Continual Semantic Adaptation through Neural Rendering
+* (CVPR 23) Federated Incremental Semantic Segmentation
+* (CVPR 23) Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class
 * (CVPR 23) Endpoints Weight Fusion for Class Incremental Semantic Segmentation
 
 
@@ -280,6 +288,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (NeurIPS 22) BMU-MoCo: Bidirectional Momentum Update for Continual Video-Language Modeling
 * (AAAI 23) Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task
 * (CVPR 23) ConStruct-VL: Data-Free Continual Structured VL Concepts Learning
+* (CVPR 23) VQACL: A Novel Visual Question Answering Continual Learning Setting
 
 
 
@@ -361,3 +370,5 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 23) Towards Open Temporal Graph Neural Networks
 * (WWW 23) Dynamically Expandable Graph Convolution for Streaming Recommendation
 * (CVPR 23) Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world
+* (CVPR 23) PIVOT: Prompting for Video Continual Learning
+* (CVPR 23) Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation
