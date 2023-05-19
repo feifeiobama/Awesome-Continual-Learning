@@ -128,6 +128,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 21) Layerwise Optimization by Gradient Decomposition for Continual Learning
 * (NeurIPS 21) Flattening Sharpness for Dynamic Gradient Projection Memory Benefits Continual Learning
 * (ICLR 22) TRGP: Trust Region Gradient Projection for Continual Learning
+* (ICLR 22) Continual Learning with Recursive Gradient Optimization
 * (ICML 22) Continual Learning with Guarantees via Weight Interval Constraints
 * (CVPR 22) Towards Better Plasticity-Stability Trade-off in Incremental Learning: A Simple Linear Connector
 * (AAAI 23) Continual Learning with Scaled Gradient Projection
@@ -140,6 +141,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 20) Few-Shot Class-Incremental Learning
 * (ECCV 20) Topology-Preserving Class-Incremental Learning
 * (ICCV 21) Co^2^L: Contrastive Continual Learning
+* (TIP 22) CKDF: Cascaded Knowledge Distillation Framework for Robust Incremental Learning
 
 
 
@@ -241,6 +243,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Continual Semantic Segmentation with Automatic Memory Sample Selection
 * (CVPR 23) Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions
 * (CVPR 23) Unsupervised Continual Semantic Adaptation through Neural Rendering
+* (CVPR 23) Endpoints Weight Fusion for Class Incremental Semantic Segmentation
 
 
 
@@ -264,6 +267,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Lifelong Unsupervised Domain Adaptive Person Re-Identification with Coordinated Anti-forgetting and Adaptation
 * (ACM MM 22) Meta Reconciliation Normalization for Lifelong Person Re-Identification
 * (ACM MM 22) Patch-based Knowledge Distillation for Lifelong Person Re-Identification
+* (BMVC 22) Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification
 
 
 
@@ -328,6 +332,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (SIGGRAPH 19) Unsupervised Incremental Learning for Hand Shape and Pose Estimation
 * (AAAI 20) Generative Continual Concept Learning
 * (CVPR 20) Online Depth Learning against Forgetting in Monocular Videos
+* (ECCV 20) SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking
 * (IROS 20) Latent Replay for Real-Time Continual Learning
 * (CVPRW 20) Continual Learning for Anomaly Detection in Surveillance Videos
 * (CVPRW 20) Continual Learning of Object Instances
@@ -342,14 +347,17 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 21) Continual Learning for Image-Based Camera Localization
 * (ICCV 21) Continual Neural Mapping: Learning An Implicit Scene Representation from Sequential Observations
 * (BMVC 21) Incremental Learning for Animal Pose Estimation using RBF k-DPP
+* (WWW 22) Multimodal Continual Graph Learning with Neural Architecture Search
 * (CVPR 22) Lifelong Graph Learning
 * (CVPR 22) Continual Test-Time Domain Adaptation
 * (ICML 22) Efficient Test-Time Model Adaptation without Forgetting
 * (ECCV 22) Novel Class Discovery without Forgetting
 * (ECCV 22) incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection
+* (AISTATS 22) Online Continual Adaptation with Active Self-Training
 * (ACL 22) Continual Prompt Tuning for Dialog State Tracking
 * (Findings of ACL 22) Consistent Representation Learning for Continual Relation Extraction
 * (COLING 22) Continuous Detection, Rapidly React: Unseen Rumors Detection based on Continual Prompt-Tuning
 * (RA-L 22) Improving Pedestrian Prediction Models with Self-Supervised Continual Learning
 * (ICLR 23) Towards Open Temporal Graph Neural Networks
 * (WWW 23) Dynamically Expandable Graph Convolution for Streaming Recommendation
+* (CVPR 23) Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world
