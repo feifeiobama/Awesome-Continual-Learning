@@ -289,6 +289,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (AAAI 23) Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task
 * (CVPR 23) ConStruct-VL: Data-Free Continual Structured VL Concepts Learning
 * (CVPR 23) VQACL: A Novel Visual Question Answering Continual Learning Setting
+* (ICML 23) Continual Vision-Language Representation Learning with Off-Diagonal Information
 
 
 
