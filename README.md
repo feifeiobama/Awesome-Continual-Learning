@@ -145,6 +145,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ECCV 20) Topology-Preserving Class-Incremental Learning
 * (ICCV 21) Co^2^L: Contrastive Continual Learning
 * (TIP 22) CKDF: Cascaded Knowledge Distillation Framework for Robust Incremental Learning
+* (TPAMI 23) Variational Data-Free Knowledge Distillation for Continual Learning
 
 
 
