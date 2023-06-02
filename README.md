@@ -180,6 +180,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Dense Network Expansion for Class Incremental Learning
 * (CVPR 23) DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning
 * (CVPR 23) CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning
+* (ICML 23) Lifelong Language Pretraining with Distribution-Specialized Experts
 
 ### Mask
 
