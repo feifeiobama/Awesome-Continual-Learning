@@ -193,6 +193,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Meta-Attention for ViT-backed Continual Learning
 * (ICML 22) Forget-free Continual Learning with Winning Subnetworks
 * (ICML 22) NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks
+* (ICML 23) Parameter-Level Soft-Masking for Continual Learning
 
 ### Decompose
 
@@ -322,6 +323,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (NeurIPS 22) Continual Learning In Environments With Polynomial Mixing Times
 * (NeurIPS 22) Disentangling Transfer in Continual Reinforcement Learning
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
+* (ICML 23) Continual Task Allocation in Meta-Policy Network via Sparse Prompting
 
 #### Non-stationary MDP
 
