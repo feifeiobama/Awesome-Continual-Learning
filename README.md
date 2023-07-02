@@ -95,6 +95,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 21) Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning
 * (CVPR 22) Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data
 * (ICLR 23) Incremental Learning of Structured Memory via Closed-Loop Transcription
+* (ICML 23) DDGR: Continual Learning with Deep Diffusion-based Generative Replay
 
 
 
@@ -146,6 +147,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 21) Co^2^L: Contrastive Continual Learning
 * (TIP 22) CKDF: Cascaded Knowledge Distillation Framework for Robust Incremental Learning
 * (TPAMI 23) Variational Data-Free Knowledge Distillation for Continual Learning
+* (ICML 23) Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning
 
 
 
@@ -180,6 +182,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Dense Network Expansion for Class Incremental Learning
 * (CVPR 23) DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning
 * (CVPR 23) CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning
+* (ICML 23) Learning Expressive Priors for Generalization and Uncertainty Estimation in Neural Networks
 * (ICML 23) Lifelong Language Pretraining with Distribution-Specialized Experts
 
 ### Mask
@@ -292,6 +295,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (AAAI 23) Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task
 * (CVPR 23) ConStruct-VL: Data-Free Continual Structured VL Concepts Learning
 * (CVPR 23) VQACL: A Novel Visual Question Answering Continual Learning Setting
+* (ICML 23) Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization
 * (ICML 23) Continual Vision-Language Representation Learning with Off-Diagonal Information
 
 
