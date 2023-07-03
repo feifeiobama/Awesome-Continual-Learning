@@ -84,6 +84,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning
 * (CVPR 23) Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning
 * (CVPR 23) Regularizing Second-Order Influences for Continual Learning
+* (ICML 23) BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning
+* (ICML 23) DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning
 
 ### Generative replay
 
@@ -137,6 +139,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
 * (CVPR 23) Adaptive Plasticity Improvement for Continual Learning
 * (CVPR 23) Decoupling Learning and Remembering: a Bilevel Memory Framework with Knowledge Projection for Task-Incremental Learning
+* (ICML 23) Optimizing Mode Connectivity for Class Incremental Learning
 
 ### Distillation-based
 
@@ -196,6 +199,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Meta-Attention for ViT-backed Continual Learning
 * (ICML 22) Forget-free Continual Learning with Winning Subnetworks
 * (ICML 22) NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks
+* (ICML 23) Discrete Key-Value Bottleneck
 * (ICML 23) Parameter-Level Soft-Masking for Continual Learning
 
 ### Decompose
