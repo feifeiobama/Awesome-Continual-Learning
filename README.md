@@ -86,6 +86,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Regularizing Second-Order Influences for Continual Learning
 * (ICML 23) BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning
 * (ICML 23) DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning
+* (IJCV 23) Trust-Region Adaptive Frequency for Online Continual Learning
 
 ### Generative replay
 
