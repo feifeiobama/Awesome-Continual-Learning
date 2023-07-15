@@ -188,6 +188,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning
 * (ICML 23) Learning Expressive Priors for Generalization and Uncertainty Estimation in Neural Networks
 * (ICML 23) Lifelong Language Pretraining with Distribution-Specialized Experts
+* (ICCV 23) A Unified Continual Learning Framework with General Parameter-Efficient Tuning
 
 ### Mask
 
