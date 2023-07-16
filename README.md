@@ -303,6 +303,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) VQACL: A Novel Visual Question Answering Continual Learning Setting
 * (ICML 23) Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization
 * (ICML 23) Continual Vision-Language Representation Learning with Off-Diagonal Information
+* (ICCV 23) Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models
 
 
 
