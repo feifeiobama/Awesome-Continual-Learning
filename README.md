@@ -38,6 +38,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (Neural Networks 23) A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning
 * (arXiv 23) A Comprehensive Survey of Continual Learning: Theory, Method and Application
 * (arXiv 23) Deep Class-Incremental Learning: A Survey
+* (arXiv 23) A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
 
 
 
