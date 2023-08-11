@@ -190,6 +190,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 23) Learning Expressive Priors for Generalization and Uncertainty Estimation in Neural Networks
 * (ICML 23) Lifelong Language Pretraining with Distribution-Specialized Experts
 * (ICCV 23) A Unified Continual Learning Framework with General Parameter-Efficient Tuning
+* (ICCV 23) CLR: Channel-wise Lightweight Reprogramming for Continual Learning
 
 ### Mask
 
@@ -231,8 +232,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
 * (CVPR 23) Continual Detection Transformer for Incremental Object Detection
 
-
-
 ### Semantic segmentation
 
 * (ICCVW 19) Incremental Learning Techniques for Semantic Segmentation
@@ -266,8 +265,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class
 * (CVPR 23) Endpoints Weight Fusion for Class Incremental Semantic Segmentation
 
-
-
 ### Image generation
 
 * (NeurIPS 18) Memory Replay GANs: Learning to Generate New Categories without Forgetting
@@ -275,8 +272,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ECCV 20) Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation
 * (CVPR 21) Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation
 * (CVPR 21) Efficient Feature Transformations for Discriminative and Generative Continual Learning
-
-
 
 ### Person re-identification
 
@@ -289,8 +284,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ACM MM 22) Meta Reconciliation Normalization for Lifelong Person Re-Identification
 * (ACM MM 22) Patch-based Knowledge Distillation for Lifelong Person Re-Identification
 * (BMVC 22) Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification
-
-
 
 ### Vision-language learning
 
@@ -305,8 +298,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 23) Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization
 * (ICML 23) Continual Vision-Language Representation Learning with Off-Diagonal Information
 * (ICCV 23) Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models
-
-
 
 ### Reinforcement learning
 
@@ -350,8 +341,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 22) Reinforcement Learning in Presence of Discrete Markovian Context Evolution
 * (NeurIPS 22) Off-Policy Evaluation for Action-Dependent Non-stationary Environments
 * (NeurIPS 22) Factored Adaptation for Non-Stationary Reinforcement Learning
-
-
 
 ### Others
 
