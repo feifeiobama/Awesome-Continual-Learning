@@ -107,6 +107,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 
 * (ICML 17) Continual Learning through Synaptic Intelligence
 * (ECCV 18) Memory Aware Synapses: Learning What (Not) to Forget
+* (ECCV 18) Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence
 * (NeurIPS 20) Understanding the Role of Training Regimes in Continual Learning
 * (CVPR 23) Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning
 
@@ -191,6 +192,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 23) Lifelong Language Pretraining with Distribution-Specialized Experts
 * (ICCV 23) A Unified Continual Learning Framework with General Parameter-Efficient Tuning
 * (ICCV 23) CLR: Channel-wise Lightweight Reprogramming for Continual Learning
+* (ICCV 23) Exemplar-Free Continual Transformer with Convolutions
 
 ### Mask
 
@@ -272,6 +274,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ECCV 20) Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation
 * (CVPR 21) Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation
 * (CVPR 21) Efficient Feature Transformations for Discriminative and Generative Continual Learning
+* (ICCV 23) LFS-GAN: Lifelong Few-Shot Image Generation
 
 ### Person re-identification
 
@@ -298,6 +301,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 23) Open-VCLIP: Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization
 * (ICML 23) Continual Vision-Language Representation Learning with Off-Diagonal Information
 * (ICCV 23) Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models
+* (ICCV 23) CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation
 
 ### Reinforcement learning
 
