@@ -198,6 +198,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 
 * (CVPR 18) PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning
 * (ICML 18) Overcoming Catastrophic Forgetting with Hard Attention to the Task
+* (NeurIPS 19) Random Path Selection for Incremental Learning
 * (NeurIPSW 19) Continual Learning via Neural Pruning
 * (NeurIPS 20) Supermasks in Superposition
 * (ICLR 21) Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning
