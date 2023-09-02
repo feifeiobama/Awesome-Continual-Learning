@@ -154,6 +154,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (TIP 22) CKDF: Cascaded Knowledge Distillation Framework for Robust Incremental Learning
 * (TPAMI 23) Variational Data-Free Knowledge Distillation for Continual Learning
 * (ICML 23) Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning
+* (ICCV 23) Dynamic Residual Classifier for Class Incremental Lear
 
 
 
@@ -193,6 +194,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) A Unified Continual Learning Framework with General Parameter-Efficient Tuning
 * (ICCV 23) CLR: Channel-wise Lightweight Reprogramming for Continual Learning
 * (ICCV 23) Exemplar-Free Continual Transformer with Convolutions
+* (ICCV 23) Self-Evolved Dynamic Expansion Model for Task-Free Continual Learning
+* (ICCV 23) Tangent Model Composition for Ensembling and Continual Fine-tuning
 
 ### Mask
 
@@ -235,6 +238,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
 * (CVPR 23) Continual Detection Transformer for Incremental Object Detection
 * (ICCV 23) Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection
+* (ICCV 23) Label-Efficient Online Continual Object Detection in Streaming Video
 
 ### Semantic segmentation
 
@@ -384,4 +388,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world
 * (CVPR 23) PIVOT: Prompting for Video Continual Learning
 * (CVPR 23) Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation
+* (ICCV 23) CLNeRF: Continual Learning Meets NeRF
 * (ICCV 23) Active Neural Mapping
+* (ICCV 23) GFM: Building Geospatial Foundation Models via Continual Pretraining
