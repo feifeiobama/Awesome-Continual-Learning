@@ -384,3 +384,4 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-world
 * (CVPR 23) PIVOT: Prompting for Video Continual Learning
 * (CVPR 23) Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation
+* (ICCV 23) Active Neural Mapping
