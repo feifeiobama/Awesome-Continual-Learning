@@ -237,6 +237,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (TPAMI 21) Incremental Object Detection via Meta-Learning
 * (CVPR 22) Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation
 * (CVPR 22) Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
+* (CVPR 22) OW-DETR: Open-world Detection Transformer
 * (CVPR 23) Continual Detection Transformer for Incremental Object Detection
 * (ICCV 23) Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection
 * (ICCV 23) Label-Efficient Online Continual Object Detection in Streaming Video
