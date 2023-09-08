@@ -238,9 +238,14 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation
 * (CVPR 22) Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
 * (CVPR 22) OW-DETR: Open-world Detection Transformer
+* (ECCV 22) UC-OWOD: Unknown-Classified Open World Object Detection
 * (CVPR 23) Continual Detection Transformer for Incremental Object Detection
+* (CVPR 23) CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection
+* (CVPR 23) PROB: Probabilistic Objectness for Open World Object Detection
+* (CVPR 23) Annealing-based Label-Transfer Learning for Open World Object Detection
 * (ICCV 23) Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection
 * (ICCV 23) Label-Efficient Online Continual Object Detection in Streaming Video
+* (ICCV 23) Random Boxes Are Open-world Object Detectors
 
 ### Semantic segmentation
 
