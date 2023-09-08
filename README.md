@@ -183,6 +183,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Learning to Prompt for Continual Learning
 * (ECCV 22) DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning
 * (NeurIPS 22) S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning
+* (TPAMI 22) Adaptive Progressive Continual Learning
 * (ICLR 23) Progressive Prompts: Continual Learning for Language Models
 * (ICLR 23) Continual Transformers: Redundancy-Free Attention for Online Inference
 * (CVPR 23) Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning
