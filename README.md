@@ -154,7 +154,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (TIP 22) CKDF: Cascaded Knowledge Distillation Framework for Robust Incremental Learning
 * (TPAMI 23) Variational Data-Free Knowledge Distillation for Continual Learning
 * (ICML 23) Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning
-* (ICCV 23) Dynamic Residual Classifier for Class Incremental Lear
+* (ICCV 23) Dynamic Residual Classifier for Class Incremental Learning
 
 
 
