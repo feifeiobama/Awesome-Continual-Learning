@@ -398,3 +398,4 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) CLNeRF: Continual Learning Meets NeRF
 * (ICCV 23) Active Neural Mapping
 * (ICCV 23) GFM: Building Geospatial Foundation Models via Continual Pretraining
+* (ICCV 23) Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less
