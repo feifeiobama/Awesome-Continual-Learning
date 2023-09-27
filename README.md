@@ -143,6 +143,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Adaptive Plasticity Improvement for Continual Learning
 * (CVPR 23) Decoupling Learning and Remembering: a Bilevel Memory Framework with Knowledge Projection for Task-Incremental Learning
 * (ICML 23) Optimizing Mode Connectivity for Class Incremental Learning
+* (ICCV 23) Data Augmented Flatness-aware Gradient Projection for Continual Learning
 
 ### Distillation-based
 
@@ -155,6 +156,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (TPAMI 23) Variational Data-Free Knowledge Distillation for Continual Learning
 * (ICML 23) Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning
 * (ICCV 23) Dynamic Residual Classifier for Class Incremental Learning
+* (ICCV 23) Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning
 
 
 
@@ -166,6 +168,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 22) Model Zoo: A Growing Brain That Learns Continually
 * (ECCV 22) CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One
 * (CVPR 23) Bilateral Memory Consolidation for Continual Learning
+* (ICCV 23) Growing a Brain with Sparsity-Inducing Generation for Continual Learning
 
 ### Expansion
 
@@ -197,6 +200,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Exemplar-Free Continual Transformer with Convolutions
 * (ICCV 23) Self-Evolved Dynamic Expansion Model for Task-Free Continual Learning
 * (ICCV 23) Tangent Model Composition for Ensembling and Continual Fine-tuning
+* (ICCV 23) Generating Instance-level Prompts for Rehearsal-free Continual Learning
+* (ICCV 23) Self-Organizing Pathway Expansion for Non-Exemplar Class-Incremental Learning
 
 ### Mask
 
@@ -279,6 +284,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Federated Incremental Semantic Segmentation
 * (CVPR 23) Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class
 * (CVPR 23) Endpoints Weight Fusion for Class Incremental Semantic Segmentation
+* (ICCV 23) Preparing the Future for Continual Semantic Segmentation
+* (ICCV 23) Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision
 
 ### Image generation
 
@@ -315,6 +322,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 23) Continual Vision-Language Representation Learning with Off-Diagonal Information
 * (ICCV 23) Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models
 * (ICCV 23) CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation
+* (ICCV 23) Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering
 
 ### Reinforcement learning
 
@@ -399,3 +407,4 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Active Neural Mapping
 * (ICCV 23) GFM: Building Geospatial Foundation Models via Continual Pretraining
 * (ICCV 23) Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less
+* (ICCV 23) Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint
