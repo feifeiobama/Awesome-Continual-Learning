@@ -172,6 +172,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 
 ### Expansion
 
+* (ICLR 16) Net2Net: Accelerating Learning via Knowledge Transfer
 * (arXiv 16) Progressive Neural Networks
 * (CVPR 17) Expert Gate: Lifelong Learning with a Network of Experts
 * (ICML 17) AdaNet: Adaptive Structural Learning of Artificial Neural Networks
