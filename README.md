@@ -287,6 +287,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Endpoints Weight Fusion for Class Incremental Semantic Segmentation
 * (ICCV 23) Preparing the Future for Continual Semantic Segmentation
 * (ICCV 23) Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision
+* (NeurIPS 23) Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
 
 ### Image generation
 
@@ -296,6 +297,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 21) Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation
 * (CVPR 21) Efficient Feature Transformations for Discriminative and Generative Continual Learning
 * (ICCV 23) LFS-GAN: Lifelong Few-Shot Image Generation
+* (NeurIPS 23) Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models
 
 ### Person re-identification
 
@@ -353,6 +355,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (NeurIPS 22) Disentangling Transfer in Continual Reinforcement Learning
 * (ICLR 23) Building a Subspace of Policies for Scalable Continual Learning
 * (ICML 23) Continual Task Allocation in Meta-Policy Network via Sparse Prompting
+* (NeurIPS 23) A Definition of Continual Reinforcement Learning
+* (NeurIPS 23) Rewiring Neurons in Non-Stationary Environments
 
 #### Non-stationary MDP
 
@@ -409,3 +413,5 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) GFM: Building Geospatial Foundation Models via Continual Pretraining
 * (ICCV 23) Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less
 * (ICCV 23) Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint
+* (NeurIPS 23) Temporal Continual Learning with Prior Compensation for Human Motion Prediction
+* (NeurIPS 23) CL-NeRF: Continual Learning of Neural Radiance Fields for Evolving Scene Representation
