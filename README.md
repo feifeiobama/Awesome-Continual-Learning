@@ -203,6 +203,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Tangent Model Composition for Ensembling and Continual Fine-tuning
 * (ICCV 23) Generating Instance-level Prompts for Rehearsal-free Continual Learning
 * (ICCV 23) Self-Organizing Pathway Expansion for Non-Exemplar Class-Incremental Learning
+* (NeurIPS 23) Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality
 
 ### Mask
 
