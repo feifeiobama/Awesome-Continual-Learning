@@ -312,6 +312,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ACM MM 22) Meta Reconciliation Normalization for Lifelong Person Re-Identification
 * (ACM MM 22) Patch-based Knowledge Distillation for Lifelong Person Re-Identification
 * (BMVC 22) Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification
+* (ACM MM 23) Handling Label Uncertainty for Camera Incremental Person Re-Identification
 
 ### Vision-language learning
 
