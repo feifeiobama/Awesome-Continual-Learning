@@ -187,10 +187,11 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) DyTox: Transformers for Continual Learning with Dynamic Token Expansion
 * (CVPR 22) Learning to Prompt for Continual Learning
 * (ECCV 22) DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning
+* (ECCV 22) FOSTER: Feature Boosting and Compression for Class-Incremental Learning
 * (NeurIPS 22) S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning
 * (TPAMI 22) Adaptive Progressive Continual Learning
 * (ICLR 23) Progressive Prompts: Continual Learning for Language Models
-* (ICLR 23) Continual Transformers: Redundancy-Free Attention for Online Inference
+* (ICLR 23) A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning
 * (CVPR 23) Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning
 * (CVPR 23) Dense Network Expansion for Class Incremental Learning
 * (CVPR 23) DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning
