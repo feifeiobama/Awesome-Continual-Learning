@@ -144,6 +144,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Decoupling Learning and Remembering: a Bilevel Memory Framework with Knowledge Projection for Task-Incremental Learning
 * (ICML 23) Optimizing Mode Connectivity for Class Incremental Learning
 * (ICCV 23) Data Augmented Flatness-aware Gradient Projection for Continual Learning
+* (ICLR 24) Prompt Gradient Projection for Continual Learning
 
 ### Distillation-based
 
@@ -169,6 +170,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ECCV 22) CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One
 * (CVPR 23) Bilateral Memory Consolidation for Continual Learning
 * (ICCV 23) Growing a Brain with Sparsity-Inducing Generation for Continual Learning
+* (ICLR 24) Divide and Not Forget: Ensemble of Selectively Trained Experts in Continual Learning
 
 ### Expansion
 
@@ -221,6 +223,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 22) NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks
 * (ICML 23) Discrete Key-Value Bottleneck
 * (ICML 23) Parameter-Level Soft-Masking for Continual Learning
+* (ICLR 24) Scalable Language Model With Generalized Continual Learning
 
 ### Decompose
 
@@ -330,6 +333,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models
 * (ICCV 23) CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation
 * (ICCV 23) Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering
+* (ICLR 24) TiC-CLIP: Continual Training of CLIP Models
 
 ### Reinforcement learning
 
@@ -419,3 +423,6 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint
 * (NeurIPS 23) Temporal Continual Learning with Prior Compensation for Human Motion Prediction
 * (NeurIPS 23) CL-NeRF: Continual Learning of Neural Radiance Fields for Evolving Scene Representation
+* (ICLR 24) Online Continual Learning for Interactive Instruction Following Agents
+* (ICLR 24) Two-stage LLM Fine-tuning with Less Specialization and More Generalization
+* (ICLR 24) CPPO: Continual Learning for Reinforcement Learning With Human Feedback
