@@ -110,6 +110,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ECCV 18) Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence
 * (NeurIPS 20) Understanding the Role of Training Regimes in Continual Learning
 * (CVPR 23) Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning
+* (ICLR 24) A Unified and General Framework for Continual Learning
 
 ### Bayesian-based
 
@@ -426,3 +427,4 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 24) Online Continual Learning for Interactive Instruction Following Agents
 * (ICLR 24) Two-stage LLM Fine-tuning with Less Specialization and More Generalization
 * (ICLR 24) CPPO: Continual Learning for Reinforcement Learning With Human Feedback
+* (ICLR 24) Scalable Language Model with Generalized Continual Learning
