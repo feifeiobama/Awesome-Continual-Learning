@@ -225,6 +225,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICML 23) Discrete Key-Value Bottleneck
 * (ICML 23) Parameter-Level Soft-Masking for Continual Learning
 * (ICLR 24) Scalable Language Model With Generalized Continual Learning
+* (AAAI 24) MIND: Multi-Task Incremental Network Distillation
 
 ### Decompose
 
