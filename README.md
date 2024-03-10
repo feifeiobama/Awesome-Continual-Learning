@@ -260,6 +260,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection
 * (ICCV 23) Label-Efficient Online Continual Object Detection in Streaming Video
 * (ICCV 23) Random Boxes Are Open-world Object Detectors
+* (CVPR 24) SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection
+* (CVPR 24) Exploring Orthogonality in Open World Object Detection
 
 ### Semantic segmentation
 
@@ -296,6 +298,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Preparing the Future for Continual Semantic Segmentation
 * (ICCV 23) Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision
 * (NeurIPS 23) Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
+* (CVPR 24) Continual Segmentation with Disentangled Objectness Learning and Class Recognition
 
 ### Image generation
 
@@ -319,6 +322,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ACM MM 22) Patch-based Knowledge Distillation for Lifelong Person Re-Identification
 * (BMVC 22) Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification
 * (ACM MM 23) Handling Label Uncertainty for Camera Incremental Person Re-Identification
+* (CVPR 24) Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification
+* (CVPR 24) Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification
 
 ### Vision-language learning
 
@@ -429,3 +434,4 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 24) Two-stage LLM Fine-tuning with Less Specialization and More Generalization
 * (ICLR 24) CPPO: Continual Learning for Reinforcement Learning With Human Feedback
 * (ICLR 24) Scalable Language Model with Generalized Continual Learning
+* (CVPR 24) GOAT-Bench: A Benchmark for Multi-modal Lifelong Navigation
