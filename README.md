@@ -295,6 +295,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Federated Incremental Semantic Segmentation
 * (CVPR 23) Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class
 * (CVPR 23) Endpoints Weight Fusion for Class Incremental Semantic Segmentation
+* (ICCV 23) Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds
 * (ICCV 23) Preparing the Future for Continual Semantic Segmentation
 * (ICCV 23) Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision
 * (NeurIPS 23) Fairness Continual Learning Approach to Semantic Scene Understanding in Open-World Environments
