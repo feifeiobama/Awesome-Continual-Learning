@@ -172,6 +172,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 23) Bilateral Memory Consolidation for Continual Learning
 * (ICCV 23) Growing a Brain with Sparsity-Inducing Generation for Continual Learning
 * (ICLR 24) Divide and Not Forget: Ensemble of Selectively Trained Experts in Continual Learning
+* (AAAI 24) Evolving Parameterized Prompt Memory for Continual Learning
 
 ### Expansion
 
