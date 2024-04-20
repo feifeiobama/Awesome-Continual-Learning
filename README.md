@@ -39,6 +39,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (arXiv 23) Deep Class-Incremental Learning: A Survey
 * (arXiv 23) A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
 * (TPAMI 24) A Comprehensive Survey of Continual Learning: Theory, Method and Application
+* (IJCAI 24) Continual Learning with Pre-Trained Models: A Survey
 
 
 
