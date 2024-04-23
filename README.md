@@ -343,7 +343,9 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models
 * (ICCV 23) CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation
 * (ICCV 23) Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering
+* (AAAI 24) Continual Vision-Language Retrieval via Dynamic Knowledge Rectification
 * (ICLR 24) TiC-CLIP: Continual Training of CLIP Models
+* (CVPR 24) Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters
 
 ### Reinforcement learning
 
