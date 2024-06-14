@@ -211,6 +211,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Generating Instance-level Prompts for Rehearsal-free Continual Learning
 * (ICCV 23) Self-Organizing Pathway Expansion for Non-Exemplar Class-Incremental Learning
 * (NeurIPS 23) Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality
+* (CVPR 24) Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning
 
 ### Mask
 
@@ -440,3 +441,4 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 24) CPPO: Continual Learning for Reinforcement Learning With Human Feedback
 * (ICLR 24) Scalable Language Model with Generalized Continual Learning
 * (CVPR 24) GOAT-Bench: A Benchmark for Multi-modal Lifelong Navigation
+* (CVPR 24) ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization
