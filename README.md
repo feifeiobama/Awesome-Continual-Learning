@@ -212,6 +212,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICCV 23) Self-Organizing Pathway Expansion for Non-Exemplar Class-Incremental Learning
 * (NeurIPS 23) Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality
 * (CVPR 24) Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning
+* (CVPR 24) InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning
 
 ### Mask
 
@@ -238,6 +239,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (NeurIPS 21) Mitigating Forgetting in Online Continual Learning with Neuron Calibration
 * (NeurIPS 21) Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning
 * (ICLR 22) TRGP: Trust Region Gradient Projection for Continual Learning
+* (TKDE 24) Hessian Aware Low-Rank Perturbation for Order-Robust Continual Learning
 
 
 
