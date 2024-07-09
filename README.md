@@ -349,6 +349,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (AAAI 24) Continual Vision-Language Retrieval via Dynamic Knowledge Rectification
 * (ICLR 24) TiC-CLIP: Continual Training of CLIP Models
 * (CVPR 24) Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters
+* (ECCV 24) Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models
 
 ### Reinforcement learning
 
