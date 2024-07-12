@@ -36,9 +36,9 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (arXiv 22) An Introduction to Lifelong Supervised Learning
 * (Trends in Neurosciences 23) Continual Task Learning in Natural and Artificial Agents
 * (Neural Networks 23) A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning
-* (arXiv 23) Deep Class-Incremental Learning: A Survey
 * (arXiv 23) A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
 * (TPAMI 24) A Comprehensive Survey of Continual Learning: Theory, Method and Application
+* (TPAMI 24) Class-Incremental Learning: A Survey
 * (IJCAI 24) Continual Learning with Pre-Trained Models: A Survey
 
 
