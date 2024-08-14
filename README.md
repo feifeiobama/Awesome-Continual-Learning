@@ -101,6 +101,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (CVPR 22) Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data
 * (ICLR 23) Incremental Learning of Structured Memory via Closed-Loop Transcription
 * (ICML 23) DDGR: Continual Learning with Deep Diffusion-based Generative Replay
+* (BMVC 24) CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning
 
 
 
