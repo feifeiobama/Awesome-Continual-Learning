@@ -126,6 +126,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (NeurIPS 21) Natural Continual Learning: Success Is a Journey, Not (Just) A Destination
 * (NeurIPS 21) AFEC: Active Forgetting of Negative Transfer in Continual Learning
 * (AISTATS 22) Provable Continual Learning via Sketched Jacobian Approximations
+* (ICIF 2024) Adaptive Robust Continual Learning based on Bayesian Uncertainty Propagation
 
 ### Subspace-based
 
