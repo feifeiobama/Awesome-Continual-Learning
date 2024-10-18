@@ -13,6 +13,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
   * [Expansion](#Expansion)
   * [Mask](#Mask)
   * [Decompose](#Decompose)
+* [Analytic](#Analytic)
 * [Application](#Application)
   * [Object detection](#Object-detection)
   * [Semantic segmentation](#Semantic-segmentation)
@@ -243,6 +244,14 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (ICLR 22) TRGP: Trust Region Gradient Projection for Continual Learning
 * (TKDE 24) Hessian Aware Low-Rank Perturbation for Order-Robust Continual Learning
 
+
+## Analytic
+> This is a collection for more theoretical continual learning papers. Feel free to commit!
+* (NeurIPS 22) A Theoretical Study on Solving Continual Learning
+* (NeurIPS 22) ACIL: Analytic class-incremental learning with absolute memorization and privacy protection
+* (CVPR 23) GKEAL: Gaussian kernel embedded analytic learning for few-shot class incremental task
+* (NeurIPS 23) A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm
+* (AAAI 24) DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning
 
 
 ## Application
