@@ -41,6 +41,8 @@ This repository contains a curated list of continual learning papers and [BibTeX
 * (TPAMI 24) A Comprehensive Survey of Continual Learning: Theory, Method and Application
 * (TPAMI 24) Class-Incremental Learning: A Survey
 * (IJCAI 24) Continual Learning with Pre-Trained Models: A Survey
+* (arXiv 24) Continual Learning of Large Language Models: A Comprehensive Survey
+* (arXiv 24) Recent Advances of Multimodal Continual Learning: A Comprehensive Survey
 
 
 
